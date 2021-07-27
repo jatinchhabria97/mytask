@@ -1,0 +1,229 @@
+
+@media screen and (min-width: 1200px) and (max-width: 1280px) {
+
+.bsns1 {
+    padding: 23px 10px;
+}
+
+.bsns1 p {
+    font-size: 15px;
+}
+
+.foot-main {
+    padding: 48px 65px;
+}
+
+
+}
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+.dnheader-part ul li a {
+    margin: 0px 14px;
+}
+
+
+.about-area {
+    padding: 110px 50px;
+}
+
+.seed-business-area {
+    padding: 60px 0px;
+    
+}
+
+.bsns1 {
+    padding: 23px 10px;
+}
+
+.bsns1 p {
+    font-size: 15px;
+}
+
+.myaccordion {
+    padding: 10px 15px;
+}
+
+.foot-main {
+    padding: 48px 0px;
+}
+
+
+
+
+}
+
+
+
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+.logo-area {
+    padding: 15px 5px;
+}
+
+.dnheader-part ul li a {
+    margin: 0px 8px;
+}
+
+.about-area {
+    padding: 110px 15px;
+}
+
+.seed-business-area {
+    padding: 60px 0px;
+
+}
+
+.bsns1 {
+    padding: 23px 10px;
+}
+
+.bsns1 p {
+    font-size: 13px;
+}
+
+.myaccordion {
+    padding: 10px 15px;
+}
+
+.foot-main {
+    padding: 48px 0px;
+}
+
+.foot-2 ul li a {
+    font-size: 11px;
+}
+
+.footer-area {
+    background: linear-gradient(180deg, rgba(11, 29, 38, 0) 0%, #0B1D26 105%);
+}
+
+
+
+}
+/*
+====================================
+Small Screen - Mobile
+====================================
+*/
+@media screen and (min-width: 576px) and (max-width: 767px) {	
+
+ .logo-area {
+    padding: 15px 0px;
+}
+
+.top-2 ul li {
+    margin-right: 1px;
+}
+
+ .dnheader-area {
+    background-color: #fff;
+    padding: 0px 0;
+   
+}
+
+.selectnav { 
+    display: block;
+}
+
+.dnheader-part ul {
+    display: none;
+}
+
+.about-area {
+    padding: 110px 15px;
+}
+
+.myaccordion {
+    padding: 10px 15px;
+}
+
+.foot-main {
+    padding: 48px 0px;
+}
+
+.foot-1 {
+    margin-bottom: 30px;
+}
+
+.foot-2 {
+    margin-bottom: 30px;
+}
+
+.footer-area {
+    background: linear-gradient(180deg, rgba(11, 29, 38, 0) 0%, #0B1D26 105%);
+}
+
+
+
+}
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 575px) {
+
+ .logo-area {
+    padding: 15px 0px;
+}
+
+.top-1, .top-2 {
+    text-align: center;
+}
+
+ .dnheader-area {
+    background-color: #fff;
+    padding: 0px 0;
+   
+}
+
+.selectnav { 
+    display: block;
+}
+
+.dnheader-part ul {
+    display: none;
+}
+
+
+/*about-area*/
+.about-area {
+    padding: 80px 15px;
+}
+
+
+.seed-business-area {
+    padding: 60px 0px;
+    background: #F5F5F5;
+}
+
+.bsns1 {
+    height: auto;
+}
+
+.myaccordion {
+    padding: 10px 15px;
+}
+
+.foot-main {
+    padding: 48px 0px;
+}
+
+.foot-2 {
+    margin-top: 30px;
+}
+
+.footer-area {
+    background: linear-gradient(180deg, rgba(11, 29, 38, 0) 0%, #0B1D26 115%);
+}
+
+
+
+}
